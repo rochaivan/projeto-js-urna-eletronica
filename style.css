@@ -102,7 +102,6 @@ body {
 
 .d-1-3 {
     height: 50px;
-
 }
 
 .numero {
@@ -160,4 +159,14 @@ body {
     font-size: 40px;
     font-weight: bold;
     margin-top:15px;
+}
+
+.aviso--gigante {
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
